@@ -1,4 +1,4 @@
-# Sandbox Studio
+# Cyber Frogs
 
 A modern web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 
